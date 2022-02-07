@@ -38,4 +38,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     implementation project(':reflection')
+    implementation 'io.github.pettywing:floatwindow:1.0.0'
+    implementation 'com.orhanobut:logger:2.2.0'
 }
