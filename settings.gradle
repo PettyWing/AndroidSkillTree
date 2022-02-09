@@ -1,3 +1,4 @@
+include ':annotation'
 include ':reflection'
 include ':app'
 rootProject.name = "AndroiSKillTree"
