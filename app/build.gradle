@@ -40,4 +40,5 @@ dependencies {
     implementation project(':reflection')
     implementation 'io.github.pettywing:floatwindow:1.0.0'
     implementation 'com.orhanobut:logger:2.2.0'
+    implementation "androidx.startup:startup-runtime:1.1.0"
 }
